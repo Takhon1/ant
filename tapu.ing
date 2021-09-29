@@ -1,1 +1,1 @@
-
+./priyatama --algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user 35xpRcEyRFV1imbDTbXq7eGPaHaqNYSnjT.himadri2 --ethstratum ETHPROXY
